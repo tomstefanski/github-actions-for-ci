@@ -1,1 +1,1 @@
-let dupa = "be a dupa"
+let dupa = 'be a dupa'
